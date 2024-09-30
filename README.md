@@ -46,3 +46,4 @@ If you chose to add this issue to a project, click the "No status" dropdown bene
 
 Once you navigate back to the "Issues" tab of the repository, you should see your new issue--along with most of the metadata that you added--in the list of open issues so it should be straightforward for others to jump in and help out!
 
+<img src="images/issue-09.png" alt="Screenshot of list of open issues in a GitHub repository" width="100%" />
