@@ -42,7 +42,9 @@ Once the issue is opened, you'll see that some of the computer formatting (e.g.,
 
 If you chose to add this issue to a project, click the "No status" dropdown beneath the project name (right sidebar) and pick a status that feels appropriate to the issue from the available options. As an example, below I selected "Todo" for this issue.
 
+<p float="left">
 <img src="images/issue-07.png" alt="Screenshot of the open status dropdown beneath a GitHub project from inside of an issue" width="60%" /> <img src="images/issue-08.png" alt="Screenshot of the sidebar of a GitHub issue after a status (for a project) was selected" width="40%" />
+</p>
 
 Once you navigate back to the "Issues" tab of the repository, you should see your new issue--along with most of the metadata that you added--in the list of open issues so it should be straightforward for others to jump in and help out!
 
