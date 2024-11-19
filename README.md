@@ -20,7 +20,7 @@ Once there, click the "Issues" tab in the upper left just beneath the repository
 
 ## Create an Issue
 
-To begin, click the "New Issue" button in the upper left of the issues page (this button is likely [**blue**]{style="color:blue"} or [**green**]{style="color:green"})
+To begin, click the "New Issue" button in the upper left of the issues page (this button is likely **blue** or **green**)
 
 <img src="images/issue-03.png" alt="Screenshot of the page that results when you click 'New Issue' on a GitHub repository that uses issue templates" width="100%"/>
 
