@@ -2,6 +2,16 @@
 
 This repository houses the task management system (primarily GitHub issues) for the NCEAS DEIJ committee. For more information, see [nceas.ucsb.edu/DEIJ](https://www.nceas.ucsb.edu/DEIJ).
 
+## Getting Started
+
+Checkout [this document](https://docs.google.com/document/d/1X4JEA7pMgAfwmNQbyHb08mAusFGVdXdUsw2RdakPexI/edit?tab=t.xdisw1rusqsj) to see the current priorities and tasks for the DEIJ committee for 2025-2026. Active tasks will each have their own github issue as well. 
+
+**Other key links for the committee:** 
+
+- [Strategic Plan 2025-2026](https://docs.google.com/document/d/1oqdx-mBbHaiPH2Fpj9QM2M3RBZuSxYfoZ3kAUEeEFgg/edit?tab=t.0)
+- [Committee Meeting Notes](https://docs.google.com/document/d/1GsLvVzO7lrAXBP1_7ctGflOq_fO0kVUIJ9wRD8vdZUM/edit?tab=t.fywynd6bxkiu)
+- [Most recent meeting agenda](https://docs.google.com/document/d/1Z-BwCGDvJp4NkAn6io5AJUgVUi45w9tB13C3c7HAkmg/edit?tab=t.0) 
+
 ## GitHub Issue FAQ
 
 GitHub issues are a great way of tracking tasks (especially in coding contexts). They are super versatile and as a committee we only need to use some of their functionalities but if you're curious, check out these tutorials ([LTER tutorial](https://lter.github.io/workshop-github/issues.html), and of course, [GitHub's own documentation](https://docs.github.com/en/issues)).
