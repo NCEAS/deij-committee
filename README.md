@@ -11,7 +11,8 @@ Checkout [this document](https://docs.google.com/document/d/1X4JEA7pMgAfwmNQbyHb
 - [Co-working session notes](https://docs.google.com/document/d/1pOnt34Kk8D_HUlrjfZHAaTKCHfp1yS9QhfUtsi37eek/edit?tab=t.naik9sruzx2c#heading=h.i9igin6lg7p3)
 - [Strategic Plan 2025-2026](https://docs.google.com/document/d/1cQ5WO1BvkOG7dTh4iq-pJkkQBUf2cm7pYt7gJNhiZeQ/edit?usp=sharing)
 - [Committee Meeting Notes](https://docs.google.com/document/d/1GsLvVzO7lrAXBP1_7ctGflOq_fO0kVUIJ9wRD8vdZUM/edit?tab=t.fywynd6bxkiu)
-- [Most recent meeting agenda](https://docs.google.com/document/d/1Z-BwCGDvJp4NkAn6io5AJUgVUi45w9tB13C3c7HAkmg/edit?tab=t.0) 
+- [Most recent meeting agenda](https://docs.google.com/document/d/16zSxX9t-ZTOZZYHkQ2aH-9tpz1H-EHYzzl9MEhNaO7s/edit?tab=t.0)
+- [DEIJ Google Drive](https://drive.google.com/drive/u/1/folders/0AHJnTFBx6Bk2Uk9PVA)
 
 ## GitHub Issue FAQ
 
