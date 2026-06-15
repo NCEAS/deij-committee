@@ -14,6 +14,13 @@ Checkout [this document](https://docs.google.com/document/d/1X4JEA7pMgAfwmNQbyHb
 - [Most recent meeting agenda](https://docs.google.com/document/d/16zSxX9t-ZTOZZYHkQ2aH-9tpz1H-EHYzzl9MEhNaO7s/edit?tab=t.0)
 - [DEIJ Google Drive](https://drive.google.com/drive/u/1/folders/0AHJnTFBx6Bk2Uk9PVA)
 
+## Reading Group 
+
+Meets bi-weekly on alternate Tuesdays, off-weeks for co-working sessions. 
+
+- [Meeting Notes](https://docs.google.com/document/d/1pOL82rI5Moa2aHCUH4Pgr8fYguZV3c9gVNOsrSPdFRA/edit?tab=t.0)
+- [Sign-Up](https://docs.google.com/spreadsheets/d/1tRYvYp7RMgaWQ5eHCl06MSiap5Capx_7MEd-7AErVWU/edit?gid=0#gid=0)
+
 ## GitHub Issue FAQ
 
 GitHub issues are a great way of tracking tasks (especially in coding contexts). They are super versatile and as a committee we only need to use some of their functionalities but if you're curious, check out these tutorials ([LTER tutorial](https://lter.github.io/workshop-github/issues.html), and of course, [GitHub's own documentation](https://docs.github.com/en/issues)).
